@@ -61,7 +61,6 @@ function init(){
     })
 
 
-    console.log()
     index = 0
     var angle = 0
     $('.end').on('click', event =>{
